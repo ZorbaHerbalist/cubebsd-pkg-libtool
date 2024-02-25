@@ -1,7 +1,7 @@
 Summary: The GNU Portable Library Tool
 Name:    libtool
 Version: 2.4.7
-Release: 0.01
+Release: 0.02
 License: GPLv2
 URL:     http://www.gnu.org/software/libtool/
 Source:  http://ftp.gnu.org/gnu/libtool/libtool-%{version}.tar.gz
